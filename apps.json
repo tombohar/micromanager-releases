@@ -1,0 +1,32 @@
+{
+  "name": "MicroManager",
+  "identifier": "com.tombohar.micromanager.source",
+  "apps": [
+    {
+      "name": "MicroManager",
+      "bundleIdentifier": "com.tombohar.micromanager",
+      "developerName": "Tom Bohar",
+      "subtitle": "Personal finance + cycling",
+      "localizedDescription": "Personal finance and cycling app — accounts, budgets, investments, loans, plus ride tracking, route planning and bike maintenance.",
+      "iconURL": "https://raw.githubusercontent.com/tombohar/micromanager-releases/main/icon.png",
+      "tintColor": "512BD4",
+      "category": "lifestyle",
+      "version": "1.0.10",
+      "versionDate": "2026-06-17",
+      "versionDescription": "Full web-app parity baseline.",
+      "downloadURL": "https://github.com/tombohar/micromanager-releases/releases/download/v1.0.10/MicroManager.ipa",
+      "size": 16497810,
+      "versions": [
+        {
+          "version": "1.0.10",
+          "date": "2026-06-17",
+          "localizedDescription": "Full web-app parity baseline.",
+          "downloadURL": "https://github.com/tombohar/micromanager-releases/releases/download/v1.0.10/MicroManager.ipa",
+          "size": 16497810,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
