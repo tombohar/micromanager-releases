@@ -11,13 +11,13 @@
       "iconURL": "https://raw.githubusercontent.com/tombohar/micromanager-releases/main/icon.png",
       "tintColor": "512BD4",
       "category": "lifestyle",
-      "version": "1.0.27",
+      "version": "1.0.28",
       "versionDate": "2026-06-19",
-      "versionDescription": "Automated build 1.0.27.",
-      "downloadURL": "https://github.com/tombohar/micromanager-releases/releases/download/v1.0.27/MicroManager.ipa",
-      "size": 16588371,
+      "versionDescription": "Automated build 1.0.28.",
+      "downloadURL": "https://github.com/tombohar/micromanager-releases/releases/download/v1.0.28/MicroManager.ipa",
+      "size": 16589228,
       "versions": [
-        { "version": "1.0.27", "date": "2026-06-19", "localizedDescription": "Automated build 1.0.27.", "downloadURL": "https://github.com/tombohar/micromanager-releases/releases/download/v1.0.27/MicroManager.ipa", "size": 16588371, "minOSVersion": "15.0" }
+        { "version": "1.0.28", "date": "2026-06-19", "localizedDescription": "Automated build 1.0.28.", "downloadURL": "https://github.com/tombohar/micromanager-releases/releases/download/v1.0.28/MicroManager.ipa", "size": 16589228, "minOSVersion": "15.0" }
       ]
     }
   ],
